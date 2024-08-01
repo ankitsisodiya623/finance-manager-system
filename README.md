@@ -9,9 +9,6 @@
   - Usage
   - Project Structure
   - Assumptions
-  - Testing
-  - Contributing
-  - License
 # Features
   * User Management: Register and login to the system.
   * Transaction Management: Add, view, update, and delete financial transactions with details such as amount, date, category, and description.
