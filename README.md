@@ -1,4 +1,4 @@
-1- Personal Finance Manager
+# Personal Finance Manager
    This project is a Personal Finance Manager system designed to help users track their income, expenses, and savings goals. It allows users to add, view, update, and delete financial transactions, 
    categorize them, and generate reports to understand their spending patterns.
 
