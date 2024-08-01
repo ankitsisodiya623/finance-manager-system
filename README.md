@@ -9,6 +9,7 @@
   - Usage
   - Project Structure
   - Assumptions
+  - Screen Shots
 # Features
   * User Management: Register and login to the system.
   * Transaction Management: Add, view, update, and delete financial transactions with details such as amount, date, category, and description.
@@ -62,8 +63,6 @@
     - Basic authentication mechanism (username and password) is used for simplicity.
     - The user interface is implemented using JSP and Bootstrap.
     - MySQL is used for data persistence.
-Testing
-Unit tests are provided for critical components of the system.
-Instructions for running the tests:
-Use a Java IDE to run the test cases in the test directory.
-Ensure that the database is set up and configured correctly before running the tests.
+# Screen Shots
+  ![Screenshot 2024-08-01 150241](https://github.com/user-attachments/assets/14a4b803-297d-4696-a8d6-11a2a10f0787)
+
